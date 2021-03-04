@@ -53,11 +53,14 @@ GloVe: ```
   year = {2014},
   pages = {1532--1543},
   url = {http://www.aclweb.org/anthology/D14-1162},
-}```
+}
+```
 
-Transformers: ```@article{vaswani2017attention,
+Transformers: ```
+@article{vaswani2017attention,
   title={Attention is all you need},
   author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, Lukasz and Polosukhin, Illia},
   journal={arXiv preprint arXiv:1706.03762},
   year={2017}
-}```
+}
+```
