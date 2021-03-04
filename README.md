@@ -45,7 +45,8 @@ Maarten Bosma approach: `https://github.com/ma2rten/kaggle-evergreen`
 
 Python BoilerPipe: `https://github.com/misja/python-boilerpipe`
 
-GloVe: ```
+GloVe:
+```
 @inproceedings{pennington2014glove,
   author = {Jeffrey Pennington and Richard Socher and Christopher D. Manning},
   booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},
@@ -56,7 +57,8 @@ GloVe: ```
 }
 ```
 
-Transformers: ```
+Transformers: 
+```
 @article{vaswani2017attention,
   title={Attention is all you need},
   author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, Lukasz and Polosukhin, Illia},
