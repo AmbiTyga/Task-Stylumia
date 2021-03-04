@@ -38,3 +38,15 @@ Concatenation:
 - 1D Batch Normalization layer for 32-size tensor input 
 - Classifier layer of input_size = 32 and output_size = 1
 
+# Cite
+```
+@inproceedings{pennington2014glove,
+  author = {Jeffrey Pennington and Richard Socher and Christopher D. Manning},
+  booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},
+  title = {GloVe: Global Vectors for Word Representation},
+  year = {2014},
+  pages = {1532--1543},
+  url = {http://www.aclweb.org/anthology/D14-1162},
+}
+
+```
